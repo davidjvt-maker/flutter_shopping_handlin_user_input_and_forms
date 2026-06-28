@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_shopping_handlin_user_input_and_forms/data/dummy_items.dart';
 import 'package:flutter_shopping_handlin_user_input_and_forms/models/grocery_item.dart';
 import 'package:flutter_shopping_handlin_user_input_and_forms/widgets/new_item.dart';
 
